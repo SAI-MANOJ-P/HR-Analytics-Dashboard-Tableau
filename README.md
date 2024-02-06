@@ -1,7 +1,7 @@
 # HR_Analytics_Dashboard_Tableau
 
 # Introduction
-Introducing the HR Analytics Dashboard, built upon the [**HR dataset**](HRData.xlsx). This dashboard provides a comprehensive analysis of employee attrition and related factors within the organization. Through a series of visualizations, it offers insights into employee demographics, attrition rates, departmental trends, job satisfaction, and more. Utilizing various chart types and filters, it uncover patterns to inform strategic decisions and improve employee retention strategies.
+Introducing the HR Analytics Dashboard, built upon the [**HR dataset**](HR%20Data.xlsx). This dashboard provides a comprehensive analysis of employee attrition and related factors within the organization. Through a series of visualizations, it offers insights into employee demographics, attrition rates, departmental trends, job satisfaction, and more. Utilizing various chart types and filters, it uncover patterns to inform strategic decisions and improve employee retention strategies.
 
 ## Contents
 - [Dashboard Snapshot and Link](#dashboard-snapshot-and-link)
